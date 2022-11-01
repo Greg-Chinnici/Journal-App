@@ -1,7 +1,8 @@
 #Journal App
-##Search Bar
+- none
+#Search Bar
 - To find files
-##File Access
+#File Access
 - stack with most recent entry on top
-##Random Prompts
+#Random Prompts
 - pull from random ideas of prompts
