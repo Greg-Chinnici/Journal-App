@@ -1,0 +1,22 @@
+Themes: happy 
+What is the most interesting conversation/thought you had today?
+Themes: active 
+What thing/activity do you feel you feel that you need to do more during the week?
+Themes: learning 
+Did something this week happen that was disappointing or otherwise not what you expected?
+Themes: reflect
+Did someone say or do something that gave you a bad feeling recently?
+Themes: learning reflect
+What do you feel you want to improve/do better at the moment?
+Themes: happy 
+Have you had a positive impact on anyone's day today?
+Themes: happy learning 
+What is your comfort zone/most relaxing scenario?
+Themes: reflect 
+What do you like to do to celebrate after a big success? 
+Themes: success recall
+What have you accomplished today that made you happy? 
+Themes: learning progress 
+What do you wish you got done today? 
+Themes: happy reflect
+Have you had a positive impact on anyone's day today? 
