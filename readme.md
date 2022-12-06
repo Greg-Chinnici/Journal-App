@@ -3,3 +3,5 @@
 ![text editor](ReadmeAssests/screenLayout.png)
 
 ![components in app](ReadmeAssests/treeView.png)
+
+![figma design](ReadmeAssests/figmaDesign.png)
